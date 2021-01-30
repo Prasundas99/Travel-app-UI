@@ -1,5 +1,5 @@
 # Travel-App-UI-From-React-Native 
-A simple interface for a travel app using React nativee.
+A simple interface for a travel app using React native.
 
 # Screenshot
   
